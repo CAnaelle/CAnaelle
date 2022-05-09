@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anaelle</h1>
+<h1 align="center">Hello 👋, I'm Anaelle</h1>
 <h3 align="center">A developer fullstack near to Marseille</h3>
 
 - 💼 I’m looking for an apprenticeship to strengthen my skills
 
 - 🔭 I’m currently working on **a project of an online library**
 
-<h3 align="left">My projects:</h3>
-
+<h1 align="left">My fist projects</h1>
 <div align="center">
   <table>
         <tr>
@@ -15,7 +14,7 @@
                 <p align="center">
                     <a href="#" target="_blank"> <img src="./static/library.PNG" alt="library online"/> </a>
                     <p align="center">
-                        This is my graduation project
+                        This is my graduation project, an online library coded in HTML, CSS, JS, PHP and MySQL.
                     </p>
             </p>
             </td>
@@ -24,7 +23,7 @@
                 <p align="center">
                     <a href="#" target="_blank"> <img src="./static/restaurant.PNG" alt="restaurant"/> </a>
                     <p align="center">
-                        A restaurant project
+                        A restaurant project to order a delicious meal !
                     </p>
             </p>
             </td>
@@ -35,7 +34,7 @@
                 <p align="center">
                     <a href="#" target="_blank"> <img src="./static/shopping-list.PNG" alt="shopping-list"/> </a>
                     <p align="center">
-                        A shopping list for shopping
+                        A shopping list to remember your long list...
                     </p>
                 </p>
             </td>
@@ -50,7 +49,7 @@
   </table>
 </div>
 
-<h1 align="center">Languages and Tools 🛠</h1>
+<h1 align="center">Languages and Tools</h1>
 
 <h3 align="center">Front</h3>
 <p align="center">
