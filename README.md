@@ -1,0 +1,73 @@
+<h1 align="center">Hi 👋, I'm Anaelle</h1>
+<h3 align="center">A developer fullstack near to Marseille</h3>
+
+- 💼 I’m looking for an apprenticeship to strengthen my skills
+
+- 🔭 I’m currently working on **a project of an online library**
+
+<h3 align="left">My projects:</h3>
+
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">📖 Library online</h3>
+                <p align="center">
+                    <a href="#" target="_blank"> <img src="./static/library.png" alt="library online"/> </a>
+                    <p align="center">
+                        This is my graduation project
+                    </p>
+            </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">🍙 Restaurant</h3>
+                <p align="center">
+                    <a href="#" target="_blank"> <img src="./static/restaurant.png" alt="restaurant"/> </a>
+                    <p align="center">
+                        A restaurant project
+                    </p>
+            </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <h3 align="center">🛒 Shopping list</h3>
+                <p align="center">
+                    <a href="#" target="_blank"> <img src="./static/shopping-list.png" alt="shopping-list"/> </a>
+                    <p align="center">
+                        A shopping list for shopping
+                    </p>
+                </p>
+            </td>
+            <td width="50%">
+                <h3 align="center"></h3>
+                <p align="center">
+                    <p align="center">   
+                    </p>
+                </p>
+            </td>
+        </tr>
+  </table>
+</div>
+
+<h1 align="center">Languages and Tools 🛠</h1>
+
+<h3 align="center">Front</h3>
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> </a>
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+</p>
+
+
+  
+
+  
