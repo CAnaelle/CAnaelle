@@ -13,7 +13,7 @@
             <td width="50%">
                 <h3 align="center">📖 Library online</h3>
                 <p align="center">
-                    <a href="#" target="_blank"> <img src="../static/library.png" alt="library online"/> </a>
+                    <a href="#" target="_blank"> <img src="static/library.png" alt="library online"/> </a>
                     <p align="center">
                         This is my graduation project
                     </p>
@@ -22,7 +22,7 @@
             <td width="50%">
                 <h3 align="center">🍙 Restaurant</h3>
                 <p align="center">
-                    <a href="#" target="_blank"> <img src="./static/restaurant.png" alt="restaurant"/> </a>
+                    <a href="#" target="_blank"> <img src="static/restaurant.png" alt="restaurant"/> </a>
                     <p align="center">
                         A restaurant project
                     </p>
@@ -33,7 +33,7 @@
             <td width="50%">
                 <h3 align="center">🛒 Shopping list</h3>
                 <p align="center">
-                    <a href="#" target="_blank"> <img src="./static/shopping-list.png" alt="shopping-list"/> </a>
+                    <a href="#" target="_blank"> <img src="static/shopping-list.png" alt="shopping-list"/> </a>
                     <p align="center">
                         A shopping list for shopping
                     </p>
