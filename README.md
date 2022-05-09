@@ -13,7 +13,7 @@
             <td width="50%">
                 <h3 align="center">📖 Library online</h3>
                 <p align="center">
-                    <a href="#" target="_blank"> <img src="./static/library.PNG" alt="library online" width="100px"/> </a>
+                    <a href="#" target="_blank"> <img src="./static/library.PNG" alt="library online"/> </a>
                     <p align="center">
                         This is my graduation project
                     </p>
