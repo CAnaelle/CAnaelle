@@ -32,7 +32,7 @@
             <td width="50%">
                 <h3 align="center">🛒 Shopping list</h3>
                 <p align="center">
-                    <a href="#" target="_blank"> <img src="./static/shopping-list.PNG" alt="shopping-list"/> </a>
+                    <a href="https://canaelle.github.io/Shopping-list/" target="_blank"> <img src="./static/shopping-list.PNG" alt="shopping-list"/> </a>
                     <p align="center">
                         A shopping list to remember your long list...
                     </p>
