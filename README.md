@@ -10,7 +10,7 @@
   <table>
         <tr>
             <td width="50%">
-                <h3 align="center">📖 Library online</h3>
+                <h3 align="center">📖 Library online-à venir</h3>
                 <p align="center">
                     <a href="#" target="_blank"> <img src="./static/library.PNG" alt="library online"/> </a>
                     <p align="center">
@@ -19,7 +19,7 @@
             </p>
             </td>
             <td width="50%">
-                <h3 align="center">🍙 Restaurant</h3>
+                <h3 align="center">🍙 Restaurant-à venir</h3>
                 <p align="center">
                     <a href="#" target="_blank"> <img src="./static/restaurant.PNG" alt="restaurant"/> </a>
                     <p align="center">
