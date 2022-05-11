@@ -1,16 +1,16 @@
 <h1 align="center">Hello 👋, I'm Anaelle</h1>
 <h3 align="center">A developer fullstack near to Marseille</h3>
 
-- 💼 I’m looking for an apprenticeship to strengthen my skills
+- 💼 I’m looking for an apprenticeship or a job where I can strengthen my skills
 
-- 🔭 I’m currently working on **a project of an online library**
+- 💻 I’m currently working on **a project of an online library**
 
-<h1 align="center">My fist projects</h1>
+<h1 align="center">My first projects</h1>
 <div align="center">
   <table>
         <tr>
             <td width="50%">
-                <h3 align="center">📖 Library online-à venir</h3>
+                <h3 align="center">📖 Library online-coming soon</h3>
                 <p align="center">
                     <a href="#" target="_blank"> <img src="./static/library.PNG" alt="library online"/> </a>
                     <p align="center">
@@ -19,7 +19,7 @@
             </p>
             </td>
             <td width="50%">
-                <h3 align="center">🍙 Restaurant-à venir</h3>
+                <h3 align="center">🍙 Restaurant-coming soon</h3>
                 <p align="center">
                     <a href="#" target="_blank"> <img src="./static/restaurant.PNG" alt="restaurant"/> </a>
                     <p align="center">
