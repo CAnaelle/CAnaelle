@@ -3,7 +3,7 @@
 
 - 💼 I’m looking for an apprenticeship or a job where I can strengthen my skills
 
-- 💻 I’m currently working on **a project of an online library**
+- 💻 I’m currently working on the latest features of **a project of an online library**
 
 <h1 align="center">My first projects</h1>
 <div align="center">
